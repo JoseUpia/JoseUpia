@@ -12,7 +12,7 @@
 ```js
 const myEducation = {
   pronouns: "Emmanuel" | "Manuel" | "Upia",
-  code: [Javascript, Typescript, HTML, CSS, C Sharp, ASP.NET],
+  code: [Javascript, Typescript, HTML, CSS, C Sharp, .NET CORE],
   tools: [Angular, Node]
 }
 ```
